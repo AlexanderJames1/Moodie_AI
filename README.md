@@ -37,6 +37,8 @@ Moodie AI app built for Life advice and Mental health
     npm install tailwindcss @tailwindcss/vite
     npx shadcn@latest init
 3. Go to Client or Frontend directory
-3. Start the frontend development server:
+4. Start the frontend development server:
    npm run dev
+
+# For Streaming Flow and Model Explanation click the Read-MeFlow.d inside Client Folder
 
