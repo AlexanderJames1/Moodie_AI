@@ -40,5 +40,5 @@ Moodie AI app built for Life advice and Mental health
 4. Start the frontend development server:
    npm run dev
 
-# For Streaming Flow and Model Explanation click the Read-MeFlow.d inside Client Folder
+# For Streaming Flow and Model Explanation click the Read-MeFlow.md inside Client Folder
 
